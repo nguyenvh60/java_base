@@ -1,7 +1,4 @@
 package Base;
-
-
-
 public class Bai6_DieuKien {
     public static void main(String[] args) {
         int tuoi = 19 ;

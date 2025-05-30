@@ -7,5 +7,11 @@ public class Bai2_KieuDuLieu {
 
         System.out.println("Min cua byte" + Byte.MIN_VALUE);
         System.out.println("Max cua byte :" + Byte.MAX_VALUE);
+
+        System.out.println("Min cua short :" + Short.MIN_VALUE);
+        System.out.println("Max cua short :" + Short.MAX_VALUE);
+
+        System.out.println("Min cua Long :" + Long.MIN_VALUE);
+        System.out.println("Max cua Long :" + Long.MAX_VALUE);
     }
 }
