@@ -17,6 +17,6 @@ public class Bai8_ToanTuSoSanh {
         int y2 = 3;
         System.out.println(x1!= y2); // trả về true vì 5 không bằng 3
 
-        // Một số phép so sánh khác ( > , < , >= , <= )
+        // Một số phép so sánh khác ( > , < , >= , <= ) tương tự
     }
 }

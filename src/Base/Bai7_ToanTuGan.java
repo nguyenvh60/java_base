@@ -10,5 +10,10 @@ public class Bai7_ToanTuGan {
         int x1 = 10 ;
         x1 += 5 ;
         System.out.println(x1);
+
+        // -=, *=, /= tương tự
     }
+
+
+
 }

@@ -33,6 +33,7 @@ public class Bai3_KhaiBaoBien {
         System.out.println();
 
         // Nên tuân theo quy tắc đặt tên biến kiểu lạc đà (chữ cái đầu từ thứ 2 viết hoa, còn lại viết thường)
+        // Không được đặt tên biến trùng với các từ khóa
 
     }
 }

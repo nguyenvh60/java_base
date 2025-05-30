@@ -7,5 +7,12 @@ public class Bai4_EpKieu {
 
         double result = (double) a / b;
         System.out.println(result);
+
+        double a1 = 5;
+        double a2 = 10 ;
+        System.out.println(a1/a2);
+
+
+
     }
 }

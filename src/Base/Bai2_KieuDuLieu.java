@@ -13,5 +13,8 @@ public class Bai2_KieuDuLieu {
 
         System.out.println("Min cua Long :" + Long.MIN_VALUE);
         System.out.println("Max cua Long :" + Long.MAX_VALUE);
+
+        System.out.println("Min cua float :" + Float.MIN_VALUE);
+        System.out.println("Max cua float :" + Float.MAX_VALUE);
     }
 }

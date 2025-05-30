@@ -6,12 +6,12 @@ public class Bai5_ToanTu {
         int b = 2  ;
 
 
-//
-//        System.out.println(a+b);
-//        System.out.println(a-b);
-//        System.out.println(a*b);
-//        System.out.println((double) a/b);
-//        System.out.println(a%b);
+        //  In trực tiếp kết quả
+        System.out.println(a+b);
+        System.out.println(a-b);
+        System.out.println(a*b);
+        System.out.println((double) a/b);
+        System.out.println(a%b);
 
         // Có thể khởi tạo biến kết quả
         int phep_cong = a+ b ;
@@ -25,5 +25,8 @@ public class Bai5_ToanTu {
 
         double phep_chia = (double) a / b ;
         System.out.println(phep_chia);
+
+
+
     }
 }
