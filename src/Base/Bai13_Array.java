@@ -26,5 +26,10 @@ public class Bai13_Array {
         }
 
         // Chỉ số mảng bắt đầu bằng 0: [0] là phần tử đầu tiên. [1] là phần tử thứ hai
+
+
+
+
+
     }
 }
